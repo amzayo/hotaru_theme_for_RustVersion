@@ -1,0 +1,24 @@
+{
+    "routes": [
+        {
+            "src": "/report",
+            "dest": "http://66.152.189.91:8080/report"
+        },
+        {
+            "src": "/json/stats.json",
+            "dest": "http://66.152.189.91:8080/json/stats.json"
+        },
+        {
+            "src": "/detail",
+            "dest": "http://66.152.189.91:8080/detail"
+        },
+        {
+            "src": "/map",
+            "dest": "http://66.152.189.91:8080/map"
+        },
+        {
+            "src": "/i",
+            "dest": "http://66.152.189.91:8080/i"
+        }
+    ]
+}
